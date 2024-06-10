@@ -1,6 +1,6 @@
 # Binary Search Tree
 
-***Credit to: Khoo Zi Yi(Me), Ng Yi Hong ***
+***Credit to: Khoo Zi Yi(Me), Ng Yi Hong***
 
 Use the given source codes in this assignment and add the following functions below:
 	
